@@ -24,7 +24,7 @@ The experiment compares:
 
 
 ## 📦 Dependencies
-- MATLAB R2018b or newer
+- MATLAB R2022b or newer
 - Required Toolboxes: None 
 - Third-party Libraries:
   - [tensor-completion-tensor-recovery](https://github.com/your_profile/tensor-completion-tensor-recovery) (include in `/tensor-completion-tensor-recovery-master`)
